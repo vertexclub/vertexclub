@@ -90,10 +90,10 @@ Vertex aims to create a strong technical environment where students:
 ## 🌐 Stay Connected
 Follow Vertex and stay updated with our activities:
 
-- 🌍 **Website:** _[Link to be added]_  
-- 💻 **GitHub:** _[Link to be added]_  
-- 📸 **Instagram:** _[Link to be added]_  
-- 📧 **Email:** _[Email ID to be added]_  
+- 🌍 **Website:** https://vertexclub.vercel.app/
+- 💻 **GitHub:** https://github.com/vertexclub
+- 📸 **Instagram:** vertex_ete
+- 📧 **Email:** vertexclubete@gmail.com
 
 ---
 
