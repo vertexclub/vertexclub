@@ -51,13 +51,11 @@ We strongly encourage learning by doing.
 ## 🧠 Technical Areas We Work In
 Vertex members gain exposure to a wide range of domains, including:
 
-- 📡 Electronics & Communication Systems  
-- 🔌 Embedded Systems  
-- 🌐 Internet of Things (IoT)  
-- 🧩 PCB Design  
-- 📊 Signal Processing  
-- 💻 Software–Hardware Integration  
-- 🚀 Emerging Technologies  
+- Electronics & Communication Systems  
+- Embedded Systems  
+- Internet of Things (IoT)  
+- PCB Design  
+- Software
 
 ---
 
@@ -80,20 +78,6 @@ This GitHub repository is maintained by **Vertex** and is used to:
 
 ---
 
-## 🤝 Contributing to Vertex
-We welcome contributions from all Vertex members.
-
-Before contributing, please make sure to:
-- Follow proper folder structure and naming conventions  
-- Add clear documentation for your project  
-- Write clean, readable, and well-commented code  
-- Use Git and GitHub responsibly  
-
-> 📌 A detailed contribution guide will be added soon  
-> 🔗 **Contribution Guide:** _[Link to be added]_
-
----
-
 ## 🚀 Our Vision
 Vertex aims to create a strong technical environment where students:
 - Learn through hands-on experience  
@@ -103,30 +87,12 @@ Vertex aims to create a strong technical environment where students:
 
 ---
 
-## 🧑‍🏫 Vertex Team
-
-### Leadership
-- **Faculty Coordinator:** _[Name to be added]_  
-- **Club Lead:** _[Name to be added]_  
-- **Technical Lead:** _[Name to be added]_  
-- **Web & Development Lead:** _[Name to be added]_  
-- **Projects & R&D Lead:** _[Name to be added]_  
-
-### Core Team Members
-- _[Name]_  
-- _[Name]_  
-- _[Name]_  
-- _[More members to be added]_  
-
----
-
 ## 🌐 Stay Connected
 Follow Vertex and stay updated with our activities:
 
 - 🌍 **Website:** _[Link to be added]_  
 - 💻 **GitHub:** _[Link to be added]_  
 - 📸 **Instagram:** _[Link to be added]_  
-- 🐦 **X (Twitter):** _[Link to be added]_  
 - 📧 **Email:** _[Email ID to be added]_  
 
 ---
